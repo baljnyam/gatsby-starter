@@ -11,6 +11,6 @@ https://untidy-can.surge.sh
 <strong>run localserver:</strong>
 <strong>gatsby dev</strong>
 
-static deploy: https://surge.sh/</br>
+static deploy: https://surge.sh/<br />
 
 gatsby intro: https://www.gatsbyjs.org/tutorial/
