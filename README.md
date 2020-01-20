@@ -1,5 +1,7 @@
 #Gatsby - Hello-World:
 https://untidy-can.surge.sh
 
-- /Home/Contact
-- /About
+<ul>
+<li> /Home/Contact</li>
+<li> /About</li>
+</ul>
